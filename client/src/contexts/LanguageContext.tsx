@@ -3920,7 +3920,7 @@ const translations = {
     'header.join': 'Katıl',
     
     // Hero
-    'hero.welcome': 'Hoş geldin',
+    'hero.welcome': "Shelfie'ye Hoşgeldin",
     'hero.subtitle': 'Favorilerini ekle ve kendi dijital rafını oluştur',
     'hero.joinWaitlist': 'Bekleme Listesine Katıl',
     
